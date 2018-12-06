@@ -14,6 +14,9 @@
 # track docker compose
 !docker-compose.yml
 
+# track vscode folder
+!.vscode/
+
 # Ignore everything in the "wp-content" directory, except the "plugins"
 # and "themes" directories.
 wp-content/*
