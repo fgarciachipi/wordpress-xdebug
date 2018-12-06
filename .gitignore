@@ -8,6 +8,9 @@
 # track readme.md in the root (i.e. do NOT ignore it)
 !README.md
 
+# track Dockerfile
+!Dockerfile
+
 # Ignore everything in the "wp-content" directory, except the "plugins"
 # and "themes" directories.
 wp-content/*
