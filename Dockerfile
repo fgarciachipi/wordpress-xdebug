@@ -1,6 +1,6 @@
-FROM wordpress:5.0.2-php7.2
+FROM wordpress:5.1.1-php7.2
 
-LABEL version="1.1.0"
+LABEL version="1.2.0"
 LABEL description="WordPress development environment with Xdebug"
 
 ENV XDEBUG_PORT 9000
