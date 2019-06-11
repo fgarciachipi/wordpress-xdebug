@@ -17,11 +17,11 @@ The code in this repository has been tested using Windows 10, however the same t
 
 These are the versions of the tools used:
 
-- Visual Studio Code: v1.29.1 | [download](https://code.visualstudio.com/)
-- Xdebug extension for Visual Studio Code (PHP Debug): v1.12.6 | [download](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug)
-- Docker Desktop: 2.0.0.0-win81 (29211) | [download](https://store.docker.com/)
+- Visual Studio Code: v1.35.0 | [download](https://code.visualstudio.com/)
+- Xdebug extension for Visual Studio Code (PHP Debug): v1.13.0 | [download](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug)
+- Docker Desktop: 2.0.0.3 (31259) | [download](https://store.docker.com/)
 - Docker compose: v3.7
-- Wordpress Image: wordpress:4.9.8-php7.2 | [download](https://store.docker.com/_/wordpress)
+- Wordpress Image: wordpress:5.2.1-php7.3 | [download](https://store.docker.com/_/wordpress)
 - Xdebug: v2.6.1 | [home page](https://xdebug.org/)
 
 ## Steps to use this repository :nerd_face:

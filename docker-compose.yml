@@ -3,7 +3,7 @@ version: '3.7'
 services:
 
   wordpress:
-    image: fchipi/wordpress-xdebug:v1.2.0
+    image: fchipi/wordpress-xdebug:v1.3.0
     restart: always
     ports:
       - 8080:80
