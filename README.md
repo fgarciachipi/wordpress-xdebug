@@ -21,7 +21,7 @@ These are the versions of the tools used:
 - Xdebug extension for Visual Studio Code (PHP Debug): v1.13.0 | [download](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug)
 - Docker Desktop: 2.0.0.3 (31259) | [download](https://store.docker.com/)
 - Docker compose: v3.7
-- Wordpress Image: wordpress:5.2.2-php7.3 | [download](https://store.docker.com/_/wordpress)
+- Wordpress Image: wordpress:5.2.4-php7.3 | [download](https://store.docker.com/_/wordpress)
 - Xdebug: v2.6.1 | [home page](https://xdebug.org/)
 
 ## Steps to use this repository :nerd_face:
